@@ -1,0 +1,201 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region,Product_ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+1,ORD-1001,2025-05-01,2025-05-06,Second Class,CUST-110,Sarah Miller,Home Office,India,Bengaluru,Maharashtra,149273,East,PROD-1008,Office Supplies,Binders,Binders Product 17,993.94,4,0.15,347.69
+2,ORD-1002,2025-04-25,2025-05-02,Standard Class,CUST-151,Thomas Morrison,Corporate,India,Jaipur,Delhi,540132,South,PROD-1077,Furniture,Chairs,Chairs Product 7,1373.54,4,0.05,-107.08
+3,ORD-1003,2024-04-01,2024-04-05,Second Class,CUST-110,Patricia Nunez,Home Office,India,Jaipur,Maharashtra,548691,East,PROD-1060,Office Supplies,Binders,Binders Product 12,862.85,6,0.1,-155.54
+4,ORD-1004,2024-08-16,2024-08-18,Second Class,CUST-139,Brian Ray,Corporate,India,Mumbai,Karnataka,458226,West,PROD-1028,Furniture,Tables,Tables Product 17,1897.57,7,0.15,-90.96
+5,ORD-1005,2025-02-28,2025-03-07,First Class,CUST-151,Natasha Hickman,Corporate,India,Delhi,Karnataka,810712,East,PROD-1018,Furniture,Bookcases,Bookcases Product 5,1260.76,4,0.1,2.42
+6,ORD-1006,2024-02-15,2024-02-20,Second Class,CUST-172,Kim Castillo,Home Office,India,Mumbai,Rajasthan,467704,East,PROD-1015,Technology,Accessories,Accessories Product 2,758.09,5,0.05,5.42
+7,ORD-1007,2024-06-06,2024-06-10,Second Class,CUST-120,Michael Gross,Consumer,India,Jaipur,Karnataka,796952,Central,PROD-1081,Furniture,Chairs,Chairs Product 3,760.78,5,0.1,222.42
+8,ORD-1008,2024-04-20,2024-04-26,Standard Class,CUST-189,Brendan Davis,Home Office,India,Pune,Maharashtra,369451,Central,PROD-1032,Furniture,Tables,Tables Product 23,1849.17,9,0.0,79.88
+9,ORD-1009,2025-06-15,2025-06-18,Standard Class,CUST-197,Donna Davis,Consumer,India,Pune,Rajasthan,660243,South,PROD-1096,Office Supplies,Binders,Binders Product 15,1905.62,9,0.1,499.88
+10,ORD-1010,2025-02-06,2025-02-11,Standard Class,CUST-105,Sara Martinez,Home Office,India,Jaipur,Rajasthan,624183,Central,PROD-1032,Furniture,Chairs,Chairs Product 6,1661.32,1,0.1,-123.19
+11,ORD-1011,2025-01-02,2025-01-05,Standard Class,CUST-102,Karen Dunn,Home Office,India,Delhi,Maharashtra,527500,Central,PROD-1057,Office Supplies,Binders,Binders Product 7,1936.07,7,0.0,532.03
+12,ORD-1012,2025-03-18,2025-03-22,Standard Class,CUST-184,David Hanson,Corporate,India,Mumbai,Delhi,638739,South,PROD-1053,Technology,Accessories,Accessories Product 10,1724.85,7,0.2,67.61
+13,ORD-1013,2025-03-12,2025-03-13,First Class,CUST-112,Daniel Benson,Home Office,India,Delhi,Karnataka,695964,South,PROD-1062,Technology,Copiers,Copiers Product 9,418.88,8,0.0,-28.19
+14,ORD-1014,2024-11-13,2024-11-19,Second Class,CUST-108,Marc Orozco,Home Office,India,Delhi,Delhi,711483,South,PROD-1031,Furniture,Chairs,Chairs Product 30,1393.64,9,0.15,-107.05
+15,ORD-1015,2024-02-01,2024-02-02,First Class,CUST-134,Danielle Liu,Consumer,India,Pune,Rajasthan,767646,South,PROD-1049,Office Supplies,Storage,Storage Product 24,1671.37,5,0.1,127.81
+16,ORD-1016,2024-10-15,2024-10-20,Standard Class,CUST-161,Amanda Harrison,Consumer,India,Delhi,Delhi,508230,West,PROD-1072,Furniture,Chairs,Chairs Product 11,1382.96,2,0.15,278.02
+17,ORD-1017,2024-02-06,2024-02-13,First Class,CUST-102,Lauren Jones,Corporate,India,Mumbai,Delhi,329182,Central,PROD-1032,Technology,Copiers,Copiers Product 28,272.97,8,0.0,-51.52
+18,ORD-1018,2024-09-10,2024-09-16,Second Class,CUST-121,Matthew Smith,Consumer,India,Mumbai,Maharashtra,949958,East,PROD-1061,Technology,Copiers,Copiers Product 18,133.47,5,0.3,11.66
+19,ORD-1019,2024-05-18,2024-05-24,Second Class,CUST-117,Peter Foley,Home Office,India,Jaipur,Delhi,784031,East,PROD-1045,Furniture,Tables,Tables Product 10,1286.27,9,0.15,-121.66
+20,ORD-1020,2025-04-28,2025-05-05,First Class,CUST-143,Angela Mayer,Home Office,India,Pune,Karnataka,404202,East,PROD-1065,Office Supplies,Binders,Binders Product 13,407.94,9,0.2,-27.65
+21,ORD-1021,2024-06-26,2024-06-28,Standard Class,CUST-186,George Fox,Consumer,India,Mumbai,Karnataka,806759,East,PROD-1028,Technology,Accessories,Accessories Product 9,1440.74,4,0.15,2.47
+22,ORD-1022,2025-02-02,2025-02-05,Standard Class,CUST-114,Lawrence Carr,Home Office,India,Bengaluru,Rajasthan,891638,South,PROD-1013,Office Supplies,Storage,Storage Product 30,1820.02,6,0.0,-355.36
+23,ORD-1023,2024-02-09,2024-02-10,Second Class,CUST-164,Misty Cooley,Consumer,India,Delhi,Maharashtra,556568,South,PROD-1074,Technology,Phones,Phones Product 4,658.05,1,0.2,-102.91
+24,ORD-1024,2025-04-06,2025-04-12,Standard Class,CUST-150,Brittany Hernandez,Home Office,India,Pune,Maharashtra,134722,West,PROD-1087,Technology,Phones,Phones Product 14,1529.17,9,0.1,309.34
+25,ORD-1025,2024-07-07,2024-07-09,First Class,CUST-176,Jennifer Cooper,Corporate,India,Delhi,Rajasthan,659091,East,PROD-1045,Office Supplies,Paper,Paper Product 24,102.67,5,0.1,-10.48
+26,ORD-1026,2024-11-08,2024-11-12,Standard Class,CUST-190,Molly Lee,Corporate,India,Pune,Karnataka,312826,West,PROD-1072,Office Supplies,Storage,Storage Product 27,1963.45,10,0.2,214.94
+27,ORD-1027,2024-04-05,2024-04-07,Second Class,CUST-127,Jaclyn Watkins,Consumer,India,Delhi,Karnataka,510166,Central,PROD-1000,Office Supplies,Storage,Storage Product 12,1159.5,3,0.1,163.81
+28,ORD-1028,2024-07-14,2024-07-17,Standard Class,CUST-192,Justin Parsons,Consumer,India,Pune,Delhi,706442,East,PROD-1089,Furniture,Tables,Tables Product 10,1138.08,5,0.3,159.04
+29,ORD-1029,2024-05-22,2024-05-24,Second Class,CUST-133,Carly James,Corporate,India,Bengaluru,Rajasthan,263962,Central,PROD-1005,Technology,Accessories,Accessories Product 24,1937.73,8,0.3,190.75
+30,ORD-1030,2025-04-19,2025-04-23,First Class,CUST-188,Connor Fuller,Home Office,India,Bengaluru,Maharashtra,549261,Central,PROD-1008,Office Supplies,Paper,Paper Product 7,255.02,8,0.2,32.44
+31,ORD-1031,2024-11-07,2024-11-10,Standard Class,CUST-185,Tony Phillips,Consumer,India,Delhi,Maharashtra,765784,South,PROD-1052,Furniture,Tables,Tables Product 11,1114.2,5,0.05,-9.18
+32,ORD-1032,2024-11-09,2024-11-16,Standard Class,CUST-139,Nancy Lee,Home Office,India,Pune,Delhi,596759,West,PROD-1068,Technology,Copiers,Copiers Product 11,83.6,9,0.05,-16.5
+33,ORD-1033,2025-02-13,2025-02-16,Second Class,CUST-143,Robert Wheeler,Home Office,India,Pune,Karnataka,595330,East,PROD-1100,Furniture,Bookcases,Bookcases Product 27,1937.72,10,0.0,-154.71
+34,ORD-1034,2025-05-08,2025-05-14,First Class,CUST-113,Matthew Atkins,Consumer,India,Jaipur,Maharashtra,862448,West,PROD-1000,Technology,Copiers,Copiers Product 19,1642.84,10,0.0,468.21
+35,ORD-1035,2024-04-18,2024-04-25,First Class,CUST-153,Bonnie Espinoza,Consumer,India,Mumbai,Maharashtra,165703,Central,PROD-1069,Furniture,Tables,Tables Product 29,1911.18,5,0.1,-67.09
+36,ORD-1036,2024-03-11,2024-03-12,Standard Class,CUST-149,Theodore Walsh,Consumer,India,Bengaluru,Delhi,505167,South,PROD-1087,Technology,Copiers,Copiers Product 19,1766.19,4,0.05,-16.89
+37,ORD-1037,2024-08-04,2024-08-07,First Class,CUST-154,Timothy Mclaughlin,Corporate,India,Jaipur,Rajasthan,101275,East,PROD-1018,Furniture,Chairs,Chairs Product 14,1140.99,6,0.3,28.28
+38,ORD-1038,2024-09-06,2024-09-11,Standard Class,CUST-168,Katelyn Tate,Consumer,India,Bengaluru,Karnataka,908504,South,PROD-1092,Office Supplies,Binders,Binders Product 13,877.27,2,0.3,228.41
+39,ORD-1039,2024-06-22,2024-06-25,First Class,CUST-169,Lawrence Duncan,Consumer,India,Mumbai,Karnataka,500071,South,PROD-1097,Technology,Phones,Phones Product 9,1122.36,5,0.2,-216.59
+40,ORD-1040,2025-05-03,2025-05-09,Second Class,CUST-164,Tricia Sanchez,Home Office,India,Bengaluru,Delhi,632973,South,PROD-1037,Furniture,Chairs,Chairs Product 20,1443.87,7,0.1,266.07
+41,ORD-1041,2024-11-17,2024-11-18,First Class,CUST-155,Tracy Larson,Corporate,India,Mumbai,Delhi,349181,West,PROD-1100,Office Supplies,Paper,Paper Product 7,314.27,1,0.2,40.39
+42,ORD-1042,2025-05-01,2025-05-06,Standard Class,CUST-178,Scott Wiley,Corporate,India,Pune,Delhi,562043,South,PROD-1059,Office Supplies,Binders,Binders Product 27,1227.26,7,0.15,290.96
+43,ORD-1043,2024-10-15,2024-10-17,Second Class,CUST-125,Kelly Reese,Consumer,India,Bengaluru,Rajasthan,608911,Central,PROD-1076,Technology,Phones,Phones Product 27,45.16,2,0.0,13.13
+44,ORD-1044,2024-06-08,2024-06-12,Second Class,CUST-121,Jack Robles,Home Office,India,Delhi,Karnataka,103350,South,PROD-1014,Technology,Copiers,Copiers Product 22,442.4,6,0.05,79.39
+45,ORD-1045,2024-05-29,2024-06-04,Second Class,CUST-140,Miranda Wood,Corporate,India,Jaipur,Delhi,938251,Central,PROD-1065,Office Supplies,Paper,Paper Product 14,1909.7,2,0.05,412.21
+46,ORD-1046,2025-03-05,2025-03-07,Second Class,CUST-120,John Stevenson,Home Office,India,Bengaluru,Maharashtra,281338,South,PROD-1076,Office Supplies,Paper,Paper Product 24,135.08,9,0.05,35.68
+47,ORD-1047,2024-07-26,2024-07-31,Standard Class,CUST-144,Jimmy Franklin,Consumer,India,Bengaluru,Rajasthan,916847,Central,PROD-1018,Furniture,Bookcases,Bookcases Product 30,274.81,9,0.2,-36.83
+48,ORD-1048,2024-06-04,2024-06-09,First Class,CUST-182,Stephanie Everett,Home Office,India,Pune,Karnataka,538084,West,PROD-1100,Technology,Phones,Phones Product 17,1164.52,10,0.05,-28.41
+49,ORD-1049,2024-02-24,2024-02-25,Standard Class,CUST-132,Carl Hogan,Corporate,India,Delhi,Delhi,767200,West,PROD-1061,Furniture,Tables,Tables Product 19,1021.63,3,0.1,82.28
+50,ORD-1050,2024-04-25,2024-04-30,Standard Class,CUST-165,Timothy Jones,Consumer,India,Mumbai,Delhi,470199,Central,PROD-1019,Office Supplies,Binders,Binders Product 30,1120.48,5,0.2,346.25
+51,ORD-1051,2024-10-30,2024-11-04,Standard Class,CUST-143,Shawn Harrison,Home Office,India,Bengaluru,Delhi,542978,West,PROD-1049,Furniture,Tables,Tables Product 8,608.16,3,0.0,-21.13
+52,ORD-1052,2024-05-09,2024-05-13,Second Class,CUST-115,Kevin Bishop,Consumer,India,Mumbai,Maharashtra,770180,West,PROD-1073,Technology,Copiers,Copiers Product 20,145.08,5,0.2,8.6
+53,ORD-1053,2024-11-21,2024-11-28,Second Class,CUST-194,Mr. Michael Ward,Home Office,India,Mumbai,Rajasthan,462161,Central,PROD-1080,Office Supplies,Storage,Storage Product 14,45.43,2,0.3,8.11
+54,ORD-1054,2025-02-07,2025-02-08,Second Class,CUST-125,Joy Rodriguez,Corporate,India,Mumbai,Karnataka,212496,West,PROD-1084,Technology,Accessories,Accessories Product 25,1722.91,9,0.05,205.76
+55,ORD-1055,2024-01-07,2024-01-09,Standard Class,CUST-124,Nathan Coleman,Home Office,India,Mumbai,Rajasthan,123820,Central,PROD-1030,Furniture,Tables,Tables Product 4,161.24,1,0.15,-3.95
+56,ORD-1056,2024-01-14,2024-01-19,First Class,CUST-161,Ryan Lloyd,Consumer,India,Mumbai,Karnataka,920258,South,PROD-1092,Furniture,Chairs,Chairs Product 9,1663.64,7,0.15,373.96
+57,ORD-1057,2024-12-25,2024-12-26,Second Class,CUST-187,Dr. Robin Miller DDS,Home Office,India,Bengaluru,Delhi,890900,Central,PROD-1056,Office Supplies,Storage,Storage Product 23,311.99,10,0.2,7.01
+58,ORD-1058,2024-02-05,2024-02-08,Second Class,CUST-195,Cory Myers Jr.,Corporate,India,Bengaluru,Delhi,996483,East,PROD-1027,Technology,Phones,Phones Product 4,352.91,9,0.3,83.78
+59,ORD-1059,2024-01-01,2024-01-04,Standard Class,CUST-124,Darrell Heath,Consumer,India,Mumbai,Karnataka,569815,Central,PROD-1067,Furniture,Chairs,Chairs Product 16,1818.21,3,0.1,447.33
+60,ORD-1060,2024-03-04,2024-03-08,First Class,CUST-197,Julie Martin,Home Office,India,Delhi,Maharashtra,471979,West,PROD-1032,Office Supplies,Storage,Storage Product 7,1504.68,7,0.1,-166.76
+61,ORD-1061,2024-06-15,2024-06-18,Second Class,CUST-181,Nathan Potter PhD,Corporate,India,Pune,Rajasthan,727982,South,PROD-1021,Office Supplies,Paper,Paper Product 21,579.23,2,0.3,19.16
+62,ORD-1062,2024-03-17,2024-03-24,First Class,CUST-192,Caroline Casey,Home Office,India,Bengaluru,Karnataka,669497,Central,PROD-1053,Office Supplies,Paper,Paper Product 20,1591.73,5,0.05,-50.32
+63,ORD-1063,2024-05-16,2024-05-23,Second Class,CUST-151,Charles Brown,Home Office,India,Bengaluru,Rajasthan,110982,South,PROD-1005,Furniture,Chairs,Chairs Product 23,347.38,9,0.2,13.21
+64,ORD-1064,2024-10-23,2024-10-24,First Class,CUST-114,Kathy Campbell,Consumer,India,Delhi,Maharashtra,822258,South,PROD-1050,Technology,Phones,Phones Product 8,467.34,10,0.05,118.38
+65,ORD-1065,2024-09-28,2024-10-02,Standard Class,CUST-198,Robert Bryant,Consumer,India,Bengaluru,Delhi,336343,West,PROD-1061,Office Supplies,Paper,Paper Product 20,280.99,3,0.05,-34.94
+66,ORD-1066,2025-05-29,2025-06-01,First Class,CUST-174,Kristin Campbell,Home Office,India,Delhi,Karnataka,498950,South,PROD-1017,Office Supplies,Storage,Storage Product 4,1774.0,2,0.15,37.64
+67,ORD-1067,2024-06-03,2024-06-05,Standard Class,CUST-143,Randall Woods,Corporate,India,Pune,Rajasthan,193795,East,PROD-1033,Furniture,Tables,Tables Product 16,1322.52,2,0.2,238.64
+68,ORD-1068,2024-03-29,2024-03-31,Second Class,CUST-152,Antonio Walker,Consumer,India,Bengaluru,Delhi,542721,South,PROD-1094,Furniture,Bookcases,Bookcases Product 25,1331.06,6,0.05,186.93
+69,ORD-1069,2024-01-29,2024-02-05,First Class,CUST-162,Michelle Mccoy,Home Office,India,Jaipur,Rajasthan,139932,East,PROD-1091,Office Supplies,Binders,Binders Product 7,269.9,7,0.05,-12.33
+70,ORD-1070,2024-11-04,2024-11-08,Second Class,CUST-154,Ryan Mccall,Consumer,India,Bengaluru,Delhi,866466,East,PROD-1092,Office Supplies,Paper,Paper Product 27,93.17,6,0.2,-7.17
+71,ORD-1071,2025-03-14,2025-03-21,Second Class,CUST-156,Robert Walker MD,Consumer,India,Jaipur,Maharashtra,614818,West,PROD-1068,Furniture,Bookcases,Bookcases Product 29,1831.85,4,0.0,-204.08
+72,ORD-1072,2025-04-04,2025-04-07,Second Class,CUST-152,Jeffrey Dunn,Corporate,India,Mumbai,Karnataka,280132,East,PROD-1042,Office Supplies,Paper,Paper Product 21,885.74,3,0.0,301.12
+73,ORD-1073,2024-02-23,2024-02-26,Second Class,CUST-100,John Logan,Home Office,India,Pune,Karnataka,518433,East,PROD-1098,Office Supplies,Storage,Storage Product 25,264.29,9,0.05,-32.43
+74,ORD-1074,2025-03-30,2025-04-06,Standard Class,CUST-159,Amber Campbell,Home Office,India,Jaipur,Delhi,959345,South,PROD-1045,Technology,Phones,Phones Product 20,885.43,2,0.05,96.53
+75,ORD-1075,2024-06-07,2024-06-10,First Class,CUST-115,Joshua Weaver,Home Office,India,Jaipur,Rajasthan,475005,East,PROD-1027,Office Supplies,Paper,Paper Product 14,1619.46,1,0.05,171.6
+76,ORD-1076,2024-12-08,2024-12-09,Second Class,CUST-185,Kathy Torres,Home Office,India,Pune,Rajasthan,394973,West,PROD-1025,Technology,Accessories,Accessories Product 20,221.17,4,0.15,72.58
+77,ORD-1077,2024-10-29,2024-11-01,First Class,CUST-130,Angela Nelson,Corporate,India,Mumbai,Karnataka,337288,West,PROD-1043,Technology,Copiers,Copiers Product 23,1436.93,9,0.05,289.14
+78,ORD-1078,2024-01-16,2024-01-22,First Class,CUST-164,Jennifer Martin,Consumer,India,Bengaluru,Karnataka,476178,South,PROD-1073,Furniture,Tables,Tables Product 10,108.62,5,0.1,-17.18
+79,ORD-1079,2024-09-02,2024-09-07,Second Class,CUST-125,Mary Flowers,Home Office,India,Delhi,Rajasthan,217962,West,PROD-1060,Furniture,Chairs,Chairs Product 6,961.36,2,0.05,-13.04
+80,ORD-1080,2024-08-13,2024-08-15,Standard Class,CUST-158,Marisa Dawson,Corporate,India,Bengaluru,Karnataka,685371,East,PROD-1016,Office Supplies,Storage,Storage Product 15,1894.36,8,0.1,406.87
+81,ORD-1081,2025-03-16,2025-03-22,Second Class,CUST-125,Stephanie Johnson,Corporate,India,Mumbai,Delhi,236002,East,PROD-1046,Furniture,Tables,Tables Product 22,1654.0,2,0.0,-185.49
+82,ORD-1082,2024-07-13,2024-07-16,Second Class,CUST-155,Dawn Cox,Corporate,India,Delhi,Maharashtra,360101,Central,PROD-1059,Furniture,Chairs,Chairs Product 25,460.02,5,0.2,135.92
+83,ORD-1083,2025-02-01,2025-02-03,First Class,CUST-188,Margaret Torres,Home Office,India,Bengaluru,Karnataka,231929,West,PROD-1068,Furniture,Bookcases,Bookcases Product 10,1917.58,8,0.3,-291.44
+84,ORD-1084,2025-05-27,2025-05-30,Standard Class,CUST-190,Richard Hodge,Consumer,India,Pune,Karnataka,606589,East,PROD-1015,Office Supplies,Storage,Storage Product 19,99.66,3,0.3,9.48
+85,ORD-1085,2024-03-15,2024-03-16,Second Class,CUST-131,Patricia Brooks,Consumer,India,Delhi,Rajasthan,615410,South,PROD-1014,Furniture,Tables,Tables Product 21,1951.08,7,0.05,-143.39
+86,ORD-1086,2024-05-18,2024-05-21,First Class,CUST-126,Patricia Reed,Home Office,India,Pune,Delhi,233735,South,PROD-1046,Technology,Phones,Phones Product 23,1604.08,4,0.2,466.08
+87,ORD-1087,2024-04-03,2024-04-10,First Class,CUST-103,Anthony Carter,Home Office,India,Jaipur,Maharashtra,298034,Central,PROD-1007,Furniture,Tables,Tables Product 27,1065.91,6,0.05,-125.09
+88,ORD-1088,2024-06-13,2024-06-17,First Class,CUST-176,Mary Gomez,Home Office,India,Pune,Delhi,710793,South,PROD-1009,Office Supplies,Storage,Storage Product 20,641.37,4,0.0,101.49
+89,ORD-1089,2024-02-05,2024-02-11,Second Class,CUST-164,Daisy Dennis,Home Office,India,Delhi,Rajasthan,652063,West,PROD-1024,Office Supplies,Paper,Paper Product 20,415.56,6,0.0,92.33
+90,ORD-1090,2024-01-21,2024-01-28,First Class,CUST-194,Timothy Stone,Home Office,India,Jaipur,Maharashtra,690644,South,PROD-1036,Furniture,Chairs,Chairs Product 24,606.63,9,0.3,163.9
+91,ORD-1091,2024-07-28,2024-08-03,Standard Class,CUST-101,John Harris,Corporate,India,Jaipur,Maharashtra,241069,West,PROD-1064,Technology,Phones,Phones Product 3,64.81,7,0.1,22.46
+92,ORD-1092,2024-05-12,2024-05-14,First Class,CUST-168,Shannon Levine,Consumer,India,Bengaluru,Rajasthan,801526,West,PROD-1001,Office Supplies,Binders,Binders Product 20,1616.47,1,0.2,-3.41
+93,ORD-1093,2024-02-16,2024-02-20,Second Class,CUST-197,Sharon Davis MD,Home Office,India,Delhi,Delhi,783312,East,PROD-1034,Furniture,Bookcases,Bookcases Product 10,933.63,3,0.2,-96.43
+94,ORD-1094,2025-06-03,2025-06-04,Standard Class,CUST-142,William Reynolds,Consumer,India,Jaipur,Delhi,824195,East,PROD-1100,Furniture,Bookcases,Bookcases Product 21,819.38,9,0.2,192.61
+95,ORD-1095,2025-04-01,2025-04-05,Second Class,CUST-147,Daniel Moore,Home Office,India,Bengaluru,Maharashtra,898276,West,PROD-1013,Office Supplies,Storage,Storage Product 23,1119.87,2,0.1,-26.49
+96,ORD-1096,2024-08-27,2024-08-31,First Class,CUST-122,Christine Miller,Consumer,India,Mumbai,Delhi,980476,South,PROD-1021,Technology,Phones,Phones Product 12,47.79,5,0.2,1.77
+97,ORD-1097,2025-05-20,2025-05-26,First Class,CUST-191,Renee Acosta,Home Office,India,Mumbai,Maharashtra,291703,East,PROD-1064,Technology,Phones,Phones Product 27,71.12,1,0.15,-7.55
+98,ORD-1098,2024-05-05,2024-05-11,Second Class,CUST-176,Tyler Martinez,Home Office,India,Mumbai,Delhi,197602,Central,PROD-1095,Furniture,Tables,Tables Product 27,1710.74,9,0.0,227.37
+99,ORD-1099,2024-12-06,2024-12-09,First Class,CUST-194,Natalie Clark,Consumer,India,Delhi,Karnataka,876057,South,PROD-1068,Furniture,Tables,Tables Product 6,774.26,6,0.05,143.12
+100,ORD-1100,2024-07-19,2024-07-20,Second Class,CUST-142,Gary Walters,Home Office,India,Jaipur,Karnataka,129388,East,PROD-1008,Technology,Copiers,Copiers Product 17,1017.37,2,0.15,-127.02
+101,ORD-1101,2025-04-23,2025-04-29,Second Class,CUST-139,Christopher Sosa,Consumer,India,Pune,Rajasthan,795844,East,PROD-1080,Furniture,Bookcases,Bookcases Product 17,1778.18,10,0.1,247.68
+102,ORD-1102,2024-04-01,2024-04-03,Standard Class,CUST-188,Laura Murphy,Consumer,India,Pune,Karnataka,428390,South,PROD-1052,Technology,Accessories,Accessories Product 30,1600.66,8,0.0,-71.55
+103,ORD-1103,2025-06-05,2025-06-11,Standard Class,CUST-189,Danielle Manning,Home Office,India,Pune,Maharashtra,291508,East,PROD-1099,Technology,Accessories,Accessories Product 13,1617.18,8,0.2,-186.39
+104,ORD-1104,2024-08-17,2024-08-23,Standard Class,CUST-181,Sierra Rush,Corporate,India,Jaipur,Delhi,927143,East,PROD-1012,Furniture,Bookcases,Bookcases Product 27,1615.79,1,0.05,-23.14
+105,ORD-1105,2024-10-01,2024-10-08,Second Class,CUST-112,Shari Murphy DDS,Home Office,India,Jaipur,Delhi,968322,East,PROD-1013,Office Supplies,Storage,Storage Product 29,1122.29,7,0.3,-16.92
+106,ORD-1106,2024-04-12,2024-04-16,Second Class,CUST-169,Rebecca Hendrix,Consumer,India,Pune,Karnataka,440522,East,PROD-1045,Technology,Phones,Phones Product 20,55.1,10,0.0,-6.76
+107,ORD-1107,2024-11-11,2024-11-13,Standard Class,CUST-192,James Beck,Home Office,India,Pune,Karnataka,675899,South,PROD-1097,Furniture,Chairs,Chairs Product 3,968.62,3,0.2,-152.76
+108,ORD-1108,2025-04-17,2025-04-19,Second Class,CUST-168,Todd Long,Consumer,India,Mumbai,Rajasthan,459287,Central,PROD-1042,Office Supplies,Binders,Binders Product 4,305.41,2,0.15,40.2
+109,ORD-1109,2025-05-23,2025-05-24,Second Class,CUST-109,Cameron Mooney,Home Office,India,Bengaluru,Delhi,656127,Central,PROD-1076,Furniture,Chairs,Chairs Product 20,1364.02,4,0.2,64.63
+110,ORD-1110,2025-03-11,2025-03-15,Standard Class,CUST-166,Christine Young,Corporate,India,Pune,Maharashtra,719623,South,PROD-1010,Furniture,Chairs,Chairs Product 22,173.97,1,0.0,9.19
+111,ORD-1111,2024-11-17,2024-11-23,Second Class,CUST-176,William Whitaker,Consumer,India,Bengaluru,Rajasthan,147555,Central,PROD-1068,Office Supplies,Paper,Paper Product 1,1840.67,4,0.3,-353.84
+112,ORD-1112,2024-10-18,2024-10-25,Standard Class,CUST-160,Amber Brown,Corporate,India,Mumbai,Rajasthan,716102,Central,PROD-1075,Office Supplies,Storage,Storage Product 12,440.19,9,0.2,-18.36
+113,ORD-1113,2025-02-13,2025-02-14,Second Class,CUST-159,Robert Benson,Corporate,India,Pune,Rajasthan,207892,East,PROD-1051,Technology,Accessories,Accessories Product 6,1704.32,2,0.05,-136.1
+114,ORD-1114,2024-07-23,2024-07-24,Standard Class,CUST-179,Luke Crawford,Corporate,India,Bengaluru,Karnataka,306129,Central,PROD-1028,Office Supplies,Storage,Storage Product 3,139.57,3,0.2,-1.8
+115,ORD-1115,2024-11-23,2024-11-29,First Class,CUST-144,Denise Grant,Consumer,India,Delhi,Delhi,369720,East,PROD-1054,Office Supplies,Binders,Binders Product 19,54.08,1,0.2,15.26
+116,ORD-1116,2024-05-19,2024-05-26,Standard Class,CUST-188,Adrian Proctor,Corporate,India,Bengaluru,Rajasthan,234664,South,PROD-1005,Furniture,Chairs,Chairs Product 9,1939.78,10,0.05,475.38
+117,ORD-1117,2024-09-01,2024-09-06,First Class,CUST-133,Melissa Howard,Home Office,India,Delhi,Karnataka,939593,West,PROD-1014,Furniture,Chairs,Chairs Product 24,1512.42,4,0.05,344.72
+118,ORD-1118,2024-08-23,2024-08-26,Second Class,CUST-113,Gregory Garcia,Consumer,India,Pune,Maharashtra,517302,South,PROD-1057,Office Supplies,Binders,Binders Product 17,1396.13,8,0.15,-24.6
+119,ORD-1119,2025-04-09,2025-04-13,Second Class,CUST-127,Gregory Underwood,Corporate,India,Delhi,Delhi,109375,East,PROD-1042,Office Supplies,Paper,Paper Product 2,1307.56,8,0.15,79.09
+120,ORD-1120,2024-03-07,2024-03-10,Standard Class,CUST-131,Adrienne Dorsey,Home Office,India,Bengaluru,Rajasthan,569029,West,PROD-1036,Office Supplies,Paper,Paper Product 14,1845.32,8,0.3,-310.37
+121,ORD-1121,2024-11-22,2024-11-29,Standard Class,CUST-186,Natalie Castro,Consumer,India,Bengaluru,Maharashtra,974730,West,PROD-1040,Technology,Copiers,Copiers Product 18,1262.69,1,0.1,-11.4
+122,ORD-1122,2024-04-23,2024-04-27,Standard Class,CUST-107,Kara Garcia,Corporate,India,Delhi,Karnataka,506758,South,PROD-1098,Technology,Accessories,Accessories Product 17,1981.43,6,0.0,-243.37
+123,ORD-1123,2025-04-12,2025-04-19,First Class,CUST-174,Cindy Owens,Corporate,India,Delhi,Karnataka,819418,East,PROD-1086,Technology,Accessories,Accessories Product 13,1944.35,10,0.1,-139.09
+124,ORD-1124,2024-04-18,2024-04-23,Standard Class,CUST-195,Mike Mercado,Corporate,India,Pune,Rajasthan,913585,Central,PROD-1089,Furniture,Bookcases,Bookcases Product 1,528.56,2,0.3,149.45
+125,ORD-1125,2024-02-14,2024-02-15,First Class,CUST-172,Autumn Liu,Home Office,India,Jaipur,Karnataka,769276,Central,PROD-1013,Office Supplies,Storage,Storage Product 27,1474.78,1,0.1,459.24
+126,ORD-1126,2024-07-12,2024-07-16,Standard Class,CUST-101,David Anderson,Consumer,India,Delhi,Rajasthan,234129,West,PROD-1052,Technology,Phones,Phones Product 27,222.93,2,0.05,32.85
+127,ORD-1127,2024-07-18,2024-07-19,Standard Class,CUST-160,Zoe Nicholson,Corporate,India,Jaipur,Rajasthan,106307,South,PROD-1098,Furniture,Bookcases,Bookcases Product 10,1745.8,5,0.15,206.16
+128,ORD-1128,2025-03-30,2025-04-06,Standard Class,CUST-115,John Parrish,Home Office,India,Bengaluru,Maharashtra,401108,Central,PROD-1092,Technology,Copiers,Copiers Product 9,1773.96,10,0.1,475.87
+129,ORD-1129,2024-05-26,2024-05-28,Standard Class,CUST-154,Denise Thompson,Consumer,India,Jaipur,Karnataka,745696,South,PROD-1082,Office Supplies,Storage,Storage Product 12,686.44,5,0.3,-123.56
+130,ORD-1130,2024-10-12,2024-10-13,Standard Class,CUST-119,William Maxwell,Consumer,India,Pune,Rajasthan,236670,South,PROD-1095,Technology,Phones,Phones Product 15,364.46,9,0.2,-28.02
+131,ORD-1131,2024-05-09,2024-05-10,Second Class,CUST-161,Morgan Schwartz,Corporate,India,Bengaluru,Karnataka,676452,Central,PROD-1070,Furniture,Chairs,Chairs Product 20,846.35,2,0.1,166.23
+132,ORD-1132,2025-01-18,2025-01-21,Standard Class,CUST-103,Sandra Wright,Consumer,India,Mumbai,Delhi,417473,East,PROD-1035,Furniture,Tables,Tables Product 19,921.56,5,0.1,81.48
+133,ORD-1133,2024-07-21,2024-07-22,First Class,CUST-134,Anthony Pollard,Home Office,India,Mumbai,Rajasthan,782360,South,PROD-1099,Office Supplies,Storage,Storage Product 26,547.16,9,0.0,32.04
+134,ORD-1134,2025-05-14,2025-05-18,First Class,CUST-169,Carrie Horton,Corporate,India,Mumbai,Rajasthan,285074,Central,PROD-1063,Office Supplies,Paper,Paper Product 23,517.71,4,0.1,20.4
+135,ORD-1135,2024-12-23,2024-12-27,First Class,CUST-180,Natalie Vaughn,Consumer,India,Delhi,Delhi,289346,West,PROD-1053,Office Supplies,Paper,Paper Product 26,1388.6,3,0.05,263.52
+136,ORD-1136,2024-04-04,2024-04-07,Standard Class,CUST-124,Juan Holmes MD,Home Office,India,Mumbai,Maharashtra,216615,South,PROD-1070,Furniture,Bookcases,Bookcases Product 5,1153.46,10,0.3,266.11
+137,ORD-1137,2025-06-07,2025-06-14,Standard Class,CUST-103,Alan Joyce,Consumer,India,Bengaluru,Maharashtra,155947,West,PROD-1098,Office Supplies,Paper,Paper Product 6,40.61,2,0.0,6.2
+138,ORD-1138,2025-01-13,2025-01-20,First Class,CUST-178,Paul Warren,Consumer,India,Pune,Maharashtra,621888,Central,PROD-1011,Technology,Accessories,Accessories Product 7,1862.3,8,0.1,402.59
+139,ORD-1139,2025-06-21,2025-06-26,First Class,CUST-194,Aaron Phillips,Consumer,India,Bengaluru,Delhi,855189,Central,PROD-1087,Office Supplies,Paper,Paper Product 30,35.75,4,0.05,9.69
+140,ORD-1140,2024-02-12,2024-02-13,Standard Class,CUST-112,Emily Ramirez,Consumer,India,Pune,Rajasthan,890737,West,PROD-1054,Technology,Accessories,Accessories Product 2,193.78,7,0.05,40.08
+141,ORD-1141,2024-04-21,2024-04-23,First Class,CUST-198,Janice Rodriguez,Consumer,India,Jaipur,Karnataka,595962,West,PROD-1061,Office Supplies,Storage,Storage Product 2,1104.37,6,0.2,-1.37
+142,ORD-1142,2024-12-01,2024-12-06,First Class,CUST-113,Amy Park,Consumer,India,Bengaluru,Delhi,908954,West,PROD-1007,Furniture,Chairs,Chairs Product 22,988.89,1,0.3,21.74
+143,ORD-1143,2024-06-01,2024-06-07,Second Class,CUST-151,Danielle Jenkins,Corporate,India,Bengaluru,Rajasthan,294564,East,PROD-1076,Office Supplies,Paper,Paper Product 29,1249.6,7,0.2,67.23
+144,ORD-1144,2024-11-30,2024-12-06,Second Class,CUST-172,Matthew Yates,Corporate,India,Delhi,Delhi,435007,East,PROD-1061,Furniture,Chairs,Chairs Product 10,1095.32,4,0.15,160.03
+145,ORD-1145,2024-09-06,2024-09-13,First Class,CUST-188,Albert Morgan,Corporate,India,Bengaluru,Delhi,660068,West,PROD-1089,Technology,Copiers,Copiers Product 20,1697.81,1,0.0,536.08
+146,ORD-1146,2024-02-17,2024-02-19,Standard Class,CUST-118,Mr. David Allen III,Consumer,India,Jaipur,Karnataka,379173,Central,PROD-1009,Office Supplies,Paper,Paper Product 16,1739.5,9,0.15,163.89
+147,ORD-1147,2024-05-20,2024-05-24,Second Class,CUST-135,Kristy Fowler,Corporate,India,Delhi,Delhi,505999,East,PROD-1020,Office Supplies,Paper,Paper Product 8,889.67,10,0.15,-169.34
+148,ORD-1148,2025-04-20,2025-04-23,Standard Class,CUST-128,Steven Lee,Corporate,India,Delhi,Maharashtra,284417,East,PROD-1009,Office Supplies,Binders,Binders Product 20,1951.41,5,0.15,253.75
+149,ORD-1149,2024-10-27,2024-11-02,Second Class,CUST-132,Brian Wheeler,Corporate,India,Bengaluru,Rajasthan,679604,Central,PROD-1004,Office Supplies,Binders,Binders Product 5,1756.52,9,0.2,-280.68
+150,ORD-1150,2024-08-19,2024-08-23,Second Class,CUST-158,Daniel Jones,Consumer,India,Delhi,Karnataka,869474,South,PROD-1051,Office Supplies,Binders,Binders Product 28,45.75,4,0.05,14.54
+151,ORD-1151,2024-07-01,2024-07-04,Standard Class,CUST-190,Kelly Singh,Home Office,India,Jaipur,Delhi,877119,Central,PROD-1011,Furniture,Bookcases,Bookcases Product 3,1055.85,6,0.1,352.61
+152,ORD-1152,2024-11-21,2024-11-27,First Class,CUST-191,Lindsey Green,Consumer,India,Mumbai,Karnataka,490657,Central,PROD-1075,Technology,Accessories,Accessories Product 11,1969.81,6,0.05,655.37
+153,ORD-1153,2025-01-11,2025-01-14,First Class,CUST-182,George Johnson,Home Office,India,Jaipur,Maharashtra,713581,Central,PROD-1088,Furniture,Bookcases,Bookcases Product 12,1758.69,7,0.15,104.91
+154,ORD-1154,2024-07-21,2024-07-25,Standard Class,CUST-153,Ashley Fox,Home Office,India,Pune,Rajasthan,735855,Central,PROD-1075,Furniture,Chairs,Chairs Product 17,477.57,7,0.05,92.92
+155,ORD-1155,2024-10-04,2024-10-06,Second Class,CUST-113,Carlos Cobb,Corporate,India,Pune,Rajasthan,242406,South,PROD-1036,Technology,Accessories,Accessories Product 13,714.69,1,0.0,11.58
+156,ORD-1156,2025-05-02,2025-05-04,First Class,CUST-181,Phillip Nguyen,Home Office,India,Delhi,Maharashtra,506281,South,PROD-1082,Technology,Copiers,Copiers Product 26,597.04,5,0.05,-25.15
+157,ORD-1157,2024-04-23,2024-04-26,Standard Class,CUST-149,Donald Dominguez,Consumer,India,Delhi,Rajasthan,396628,West,PROD-1058,Technology,Copiers,Copiers Product 11,1367.88,7,0.3,-26.93
+158,ORD-1158,2024-07-06,2024-07-10,First Class,CUST-146,Eric Moore,Home Office,India,Jaipur,Maharashtra,934248,South,PROD-1010,Office Supplies,Binders,Binders Product 17,616.89,7,0.3,-51.82
+159,ORD-1159,2025-05-09,2025-05-15,Standard Class,CUST-165,Sarah White,Consumer,India,Pune,Maharashtra,172775,East,PROD-1048,Furniture,Bookcases,Bookcases Product 5,1995.48,6,0.0,-123.18
+160,ORD-1160,2024-02-12,2024-02-17,Standard Class,CUST-159,Samuel Owens,Corporate,India,Jaipur,Maharashtra,849450,Central,PROD-1014,Furniture,Chairs,Chairs Product 13,1206.2,10,0.2,193.65
+161,ORD-1161,2024-01-22,2024-01-29,First Class,CUST-151,Roger Hanson,Corporate,India,Jaipur,Karnataka,597302,South,PROD-1003,Technology,Accessories,Accessories Product 30,508.38,3,0.05,146.07
+162,ORD-1162,2024-04-20,2024-04-23,Second Class,CUST-178,Melissa Gordon,Home Office,India,Pune,Karnataka,813939,East,PROD-1077,Furniture,Bookcases,Bookcases Product 28,1526.9,7,0.05,335.47
+163,ORD-1163,2025-04-16,2025-04-21,Standard Class,CUST-152,Ashley Hunter,Home Office,India,Delhi,Maharashtra,849848,South,PROD-1045,Technology,Accessories,Accessories Product 2,1097.75,2,0.05,4.07
+164,ORD-1164,2024-10-01,2024-10-04,Second Class,CUST-141,Kimberly Williams,Corporate,India,Pune,Delhi,234567,South,PROD-1058,Technology,Accessories,Accessories Product 1,1417.84,7,0.15,-71.76
+165,ORD-1165,2024-11-01,2024-11-02,Standard Class,CUST-110,Jeanne Larson,Home Office,India,Jaipur,Maharashtra,646103,Central,PROD-1017,Technology,Copiers,Copiers Product 28,886.28,8,0.1,-109.09
+166,ORD-1166,2024-03-24,2024-03-28,Standard Class,CUST-128,Christina Montes,Consumer,India,Mumbai,Rajasthan,972569,East,PROD-1100,Technology,Accessories,Accessories Product 7,554.51,9,0.2,-75.73
+167,ORD-1167,2025-02-05,2025-02-06,First Class,CUST-155,Madeline Fleming,Consumer,India,Delhi,Karnataka,924034,South,PROD-1027,Office Supplies,Paper,Paper Product 20,426.89,10,0.0,111.64
+168,ORD-1168,2024-05-18,2024-05-19,First Class,CUST-155,Benjamin Owens,Consumer,India,Pune,Maharashtra,387983,West,PROD-1060,Office Supplies,Binders,Binders Product 19,1935.62,4,0.0,286.07
+169,ORD-1169,2024-10-07,2024-10-14,Standard Class,CUST-146,Maureen Wheeler,Corporate,India,Mumbai,Delhi,759311,West,PROD-1007,Technology,Phones,Phones Product 29,1220.67,9,0.2,87.97
+170,ORD-1170,2025-02-01,2025-02-06,First Class,CUST-175,Jody Turner,Home Office,India,Jaipur,Maharashtra,515449,West,PROD-1060,Technology,Phones,Phones Product 24,230.31,4,0.05,2.25
+171,ORD-1171,2024-01-04,2024-01-11,Second Class,CUST-175,Andrew Johnson,Consumer,India,Delhi,Delhi,393716,East,PROD-1063,Furniture,Chairs,Chairs Product 27,1052.93,7,0.05,-95.83
+172,ORD-1172,2025-02-18,2025-02-21,First Class,CUST-123,Linda Patel,Corporate,India,Delhi,Delhi,377859,West,PROD-1059,Technology,Copiers,Copiers Product 5,1712.74,5,0.15,131.29
+173,ORD-1173,2024-01-11,2024-01-17,First Class,CUST-109,Kristin Walker,Consumer,India,Mumbai,Karnataka,894912,South,PROD-1070,Technology,Phones,Phones Product 14,1916.84,9,0.05,158.42
+174,ORD-1174,2024-08-17,2024-08-20,Second Class,CUST-128,Steven Carlson,Home Office,India,Jaipur,Delhi,712157,Central,PROD-1073,Furniture,Tables,Tables Product 10,1314.27,8,0.2,8.85
+175,ORD-1175,2025-05-10,2025-05-12,Second Class,CUST-137,April Mendoza,Home Office,India,Jaipur,Delhi,535481,East,PROD-1050,Furniture,Bookcases,Bookcases Product 26,126.65,1,0.15,-2.78
+176,ORD-1176,2024-05-07,2024-05-14,Standard Class,CUST-143,John Payne,Corporate,India,Jaipur,Karnataka,251535,East,PROD-1087,Technology,Phones,Phones Product 2,1400.84,9,0.15,346.73
+177,ORD-1177,2024-06-20,2024-06-24,Second Class,CUST-123,Kathryn Huffman,Corporate,India,Mumbai,Rajasthan,434775,Central,PROD-1032,Technology,Phones,Phones Product 6,1155.22,6,0.0,308.9
+178,ORD-1178,2024-11-12,2024-11-13,Second Class,CUST-112,Isaac Wright,Consumer,India,Mumbai,Maharashtra,483924,South,PROD-1013,Office Supplies,Storage,Storage Product 17,616.5,3,0.0,53.22
+179,ORD-1179,2024-06-12,2024-06-18,First Class,CUST-102,Matthew King,Corporate,India,Bengaluru,Delhi,780292,South,PROD-1035,Furniture,Chairs,Chairs Product 17,1054.42,10,0.15,206.37
+180,ORD-1180,2024-10-30,2024-11-03,First Class,CUST-140,Michael Mccullough,Corporate,India,Jaipur,Delhi,139352,West,PROD-1064,Office Supplies,Paper,Paper Product 8,136.69,1,0.2,-5.72
+181,ORD-1181,2024-05-07,2024-05-14,Second Class,CUST-103,Daniel Moore,Consumer,India,Jaipur,Delhi,925784,West,PROD-1096,Technology,Phones,Phones Product 30,55.33,4,0.0,10.03
+182,ORD-1182,2024-02-20,2024-02-26,Standard Class,CUST-180,Zachary Hernandez,Corporate,India,Delhi,Delhi,474226,East,PROD-1034,Technology,Copiers,Copiers Product 26,1286.36,5,0.1,-133.34
+183,ORD-1183,2024-05-29,2024-06-03,Second Class,CUST-103,Elizabeth Johnston,Corporate,India,Bengaluru,Rajasthan,651528,Central,PROD-1100,Office Supplies,Paper,Paper Product 4,361.7,2,0.2,-36.21
+184,ORD-1184,2024-07-18,2024-07-21,Standard Class,CUST-160,Deborah Bass,Corporate,India,Bengaluru,Rajasthan,262768,Central,PROD-1098,Furniture,Tables,Tables Product 7,1311.75,10,0.0,445.55
+185,ORD-1185,2024-11-04,2024-11-11,First Class,CUST-166,Keith Roberts,Corporate,India,Delhi,Rajasthan,880900,East,PROD-1026,Technology,Copiers,Copiers Product 22,485.75,7,0.2,-23.33
+186,ORD-1186,2024-10-08,2024-10-14,Second Class,CUST-183,Jessica Murray,Corporate,India,Pune,Rajasthan,643736,South,PROD-1034,Office Supplies,Paper,Paper Product 1,444.42,6,0.1,116.12
+187,ORD-1187,2024-08-03,2024-08-09,Second Class,CUST-127,Charles Harris,Corporate,India,Delhi,Delhi,263494,West,PROD-1013,Office Supplies,Storage,Storage Product 30,658.55,10,0.1,-32.61
+188,ORD-1188,2025-02-22,2025-02-27,First Class,CUST-161,Kathryn Fernandez,Consumer,India,Mumbai,Delhi,833820,Central,PROD-1070,Office Supplies,Paper,Paper Product 19,1277.23,9,0.05,109.27
+189,ORD-1189,2024-07-13,2024-07-16,First Class,CUST-136,Sarah Davis,Home Office,India,Mumbai,Rajasthan,200863,Central,PROD-1073,Furniture,Tables,Tables Product 20,1207.97,2,0.15,338.51
+190,ORD-1190,2025-01-17,2025-01-22,Second Class,CUST-169,Michelle Oliver,Home Office,India,Bengaluru,Rajasthan,697400,East,PROD-1063,Furniture,Tables,Tables Product 15,1448.55,9,0.1,-219.16
+191,ORD-1191,2024-02-10,2024-02-14,First Class,CUST-189,Phillip Aguilar,Home Office,India,Pune,Karnataka,116734,West,PROD-1019,Office Supplies,Paper,Paper Product 13,331.11,7,0.0,76.42
+192,ORD-1192,2024-06-15,2024-06-17,Second Class,CUST-194,Meredith Jordan,Consumer,India,Pune,Maharashtra,710646,South,PROD-1021,Office Supplies,Binders,Binders Product 24,1425.64,5,0.3,-200.75
+193,ORD-1193,2024-11-02,2024-11-08,Second Class,CUST-178,Anthony Wallace,Consumer,India,Jaipur,Karnataka,730057,East,PROD-1060,Furniture,Tables,Tables Product 2,1576.72,1,0.05,-284.66
+194,ORD-1194,2025-02-18,2025-02-20,Standard Class,CUST-163,Connie Carlson,Consumer,India,Pune,Karnataka,610747,West,PROD-1027,Furniture,Chairs,Chairs Product 8,175.6,4,0.15,40.71
+195,ORD-1195,2024-07-11,2024-07-17,Standard Class,CUST-180,Vanessa Dickson,Home Office,India,Pune,Delhi,928809,Central,PROD-1012,Technology,Copiers,Copiers Product 1,967.26,3,0.15,73.92
+196,ORD-1196,2024-06-30,2024-07-04,First Class,CUST-157,Katelyn Wright,Home Office,India,Mumbai,Rajasthan,906755,East,PROD-1014,Furniture,Bookcases,Bookcases Product 20,1617.44,10,0.15,-13.67
+197,ORD-1197,2024-04-21,2024-04-26,First Class,CUST-100,Richard Cook,Consumer,India,Pune,Rajasthan,847393,West,PROD-1066,Office Supplies,Paper,Paper Product 28,895.55,1,0.1,-60.63
+198,ORD-1198,2024-09-21,2024-09-27,Standard Class,CUST-125,Joshua Mitchell,Corporate,India,Bengaluru,Delhi,908520,West,PROD-1065,Furniture,Bookcases,Bookcases Product 30,1702.67,7,0.1,106.99
+199,ORD-1199,2025-02-18,2025-02-23,First Class,CUST-173,Kristopher Browning,Corporate,India,Delhi,Rajasthan,198592,Central,PROD-1004,Office Supplies,Binders,Binders Product 25,336.64,1,0.15,75.26
+200,ORD-1200,2025-05-17,2025-05-21,Standard Class,CUST-169,Jeffrey Dalton,Corporate,India,Jaipur,Delhi,984319,Central,PROD-1033,Office Supplies,Paper,Paper Product 2,658.45,3,0.05,53.48
