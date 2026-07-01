@@ -1,6 +1,6 @@
 # 📊 Retail Sales Analysis using SQL Server & Power BI
 
-![Retail Sales Dashboard](Dashboard.png)
+![Retail Sales Dashboard](images/Dashboard.png)
 
 ## 📌 Project Overview
 This project analyzes retail sales data to uncover insights related to sales performance, profitability, customer behavior, and regional trends. The project combines SQL for data analysis and Power BI for interactive dashboard creation, enabling data-driven business decisions.
@@ -182,19 +182,10 @@ The insights from sql analysis are visualized in an interactive dashboard create
 
 ---
 
-## 📷 Dashboard Preview
+## 📬 Contact
 
-![Dashboard](Dashboard.png)
-
----
-
-## 👤 Author
-
-**Arpit Khandelwal**
-
-- GitHub: https://github.com/arpitkhandelwal28
-
----
+- **Author:** Arpit Khandelwal
+- **GitHub:** https://github.com/arpitkhandelwal28
 
 ⭐ If you found this project useful, please consider giving it a star on GitHub.
 
