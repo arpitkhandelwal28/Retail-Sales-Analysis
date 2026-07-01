@@ -189,3 +189,4 @@ The insights from sql analysis are visualized in an interactive dashboard create
 
 ⭐ If you found this project useful, please consider giving it a star on GitHub.
 
+---
