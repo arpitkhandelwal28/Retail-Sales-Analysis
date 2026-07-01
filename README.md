@@ -178,14 +178,14 @@ The insights from sql analysis are visualized in an interactive dashboard create
 | `Retail_Sales_Analysis_Dataset.csv` | Source dataset containing retail sales transaction records used for analysis. |
 | `Retail_Sales_Analysis.pbix` | Power BI dashboard file containing interactive visualizations and business insights. |
 | `README.md` | Project documentation including overview, objectives, methodology, insights, and project details. |
-```
 
 ---
 
 ## 📬 Contact
 
-- **Author:** Arpit Khandelwal
-- **GitHub:** https://github.com/arpitkhandelwal28
+**Author:** Arpit Khandelwal
+
+💻 GitHub: [arpitkhandelwal28](https://github.com/arpitkhandelwal28)
 
 ⭐ If you found this project useful, please consider giving it a star on GitHub.
 
